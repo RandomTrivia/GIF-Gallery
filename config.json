@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "RandomTrivia",
+  "footer": "",
   "usage-stats": false
 }

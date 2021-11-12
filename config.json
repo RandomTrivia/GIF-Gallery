@@ -9,6 +9,5 @@
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "",
   "usage-stats": false
 }

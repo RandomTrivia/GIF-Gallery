@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "RandomTrivia's GIF Gallery",
+  "title": "The RandomTrivia GIF Collection",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "sort-media-direction": "desc",

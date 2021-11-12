@@ -5,7 +5,7 @@
   "sort-albums-by": "title",
   "sort-media-by": "date",
   "sort-media-direction": "asc",
-  "download-photos": "copy",
+  "download-photos": "large",
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
